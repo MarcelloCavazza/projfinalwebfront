@@ -4,12 +4,6 @@ First, run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 ## TODO
 lib link: https://github.com/sin9270/simple-base-converter
