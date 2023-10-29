@@ -5,6 +5,11 @@ First, run the development server:
 ```bash
 npm run dev
 ```
+
+## reqs
+node version: v20.9.0
+https://nodejs.org/en
+
 ## TODO
 lib link: https://github.com/sin9270/simple-base-converter
 # desing da pagina
